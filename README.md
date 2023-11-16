@@ -1,6 +1,8 @@
 ### Education
 International Affairs, MA
+
 Physics with a Specialization in Astrophysics, BS (High Distinction)
+
 Political Science, BA
 
 ### Working Papers
