@@ -22,6 +22,11 @@ Siegert, Thomas. Ghosh, Sohan. Mathur, Kalp. Spraggon, Ethan. Yeddanapudi, Aksha
 Michael Randall, Akshay Yeddanapudi, Nicholas Galitzki, Aamir Ali, Brian Keating, Jacob Lashner, Joseph Seibert, Maximiliano Silva-Feaver, Jacob Spisak, "Testing of the radio frequency and magnetic shielding implementation of the first Simons Observatory Small Aperture Telescope, SAT-MF1," Proc. SPIE PC12190, Millimeter, Submillimeter, and Far-Infrared Detectors and Instrumentation for Astronomy XI, PC1219013 (29 August 2022) [link](https://doi.org/10.1117/12.2630676)
 
 
+Yeddanapudi, Akshay. “Simons Observatory UFM Magnetic Testing: P9R1.” Presentation. San Diego, California. 2022 [link](https://www.dropbox.com/scl/fi/f5meabxhv8lory7p3vioy/Magnetic-Testing-P9R1.pdf?rlkey=60vikg4i9oi4vixobulx08vrz&dl=0)
+
+Yeddanapudi, Akshay. Sparaggon, Ethan. Mathur, Kalp. Ghosh, Sohan. Siegert, Thomas. “Nucleosynthesis Constraints through γ-Ray Line Measurements from Classical Novae.” Presentation to Compton Spectrometer and Imager Group. San Diego, California. December 7th, 2020. [link](https://www.dropbox.com/scl/fi/tere4h3lkdh43lrzi6se0/SPI-Presentation.pdf?rlkey=7f2zvbahm26a0pbx3mto9vj10&dl=0)
+
+
 ### Other Published Work
 Yeddanapudi, Akshay. “Pennsylvania’s Republican Senatorial Primary Suggests a Re-Legitimization of Anti-Liberal Democratic Populism.” Democratic Erosion. May 24, 2022. [link](https://www.democratic-erosion.com/2022/05/24/pennsylvanias-republican-senatorial-primary-suggests-a-re-legitimization-of-anti-liberal-democratic-populism/)
 
