@@ -8,10 +8,12 @@ Political Science, BA
 ### Working Papers
 add papers here
 
-### Published Work
+### Published Papers
 add papers here
 
 
 ### Presentations
 add work here
 
+
+### Other Published Work
