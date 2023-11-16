@@ -19,6 +19,8 @@ Siegert, Thomas. Ghosh, Sohan. Mathur, Kalp. Spraggon, Ethan. Yeddanapudi, Aksha
 
 
 ### Posters and Presentations
+Yeddanapudi, Akshay. Effects of *Gaizhi* in Nanjing: Firm Performance Pre- and Post-Privatization. June 2023 [link](https://www.dropbox.com/scl/fi/2ol6azeaqgjzq1awgvcu9/Poster.pdf?rlkey=cd7zc5qcwejbs1loi3pjqvrvu&dl=0)
+
 Michael Randall, Akshay Yeddanapudi, Nicholas Galitzki, Aamir Ali, Brian Keating, Jacob Lashner, Joseph Seibert, Maximiliano Silva-Feaver, Jacob Spisak, "Testing of the radio frequency and magnetic shielding implementation of the first Simons Observatory Small Aperture Telescope, SAT-MF1," Proc. SPIE PC12190, Millimeter, Submillimeter, and Far-Infrared Detectors and Instrumentation for Astronomy XI, PC1219013 (29 August 2022) [link](https://doi.org/10.1117/12.2630676)
 
 
